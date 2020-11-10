@@ -12,4 +12,4 @@ color at the top, and then move to the bottom of the screen and print off the sa
 have 2 matching lines at the top and bottom. The y val will be incremented by 1 and the next 2 lines will printed off below the top line and above the bottom most line. 
 The program will repeat itself untill all lines are filled up and the Kaledidoscope is created.
 
-![GitHub Logo](/images/logo.png)
+![image](C:\Users\georg\Documents\School\Screenshot 2020-11-09 134153)
