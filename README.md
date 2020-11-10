@@ -14,7 +14,9 @@ The program will repeat itself untill all lines are filled up and the Kaledidosc
 
 
 <h1>Here is what the Kalediscope looks like </h1>
+
 ![example](https://github.com/georgebjork/MSAM-Kaleidoscope/blob/master/Images/example.png)
 
 <h1>Here is a sample output</h1>
+
 ![examplegif](https://github.com/georgebjork/MSAM-Kaleidoscope/blob/master/Images/exampleVid.gif)
