@@ -13,6 +13,8 @@ have 2 matching lines at the top and bottom. The y val will be incremented by 1 
 The program will repeat itself untill all lines are filled up and the Kaledidoscope is created
 
 
-<h1>Here is what the Kalediscope looks like 
+<h1>Here is what the Kalediscope looks like </h1>
 ![example](https://github.com/georgebjork/MSAM-Kaleidoscope/blob/master/Images/example.png)
 
+<h1>Here is a sample output</h1>
+![examplegif](https://github.com/georgebjork/MSAM-Kaleidoscope/blob/master/Images/exampleVid.gif)
